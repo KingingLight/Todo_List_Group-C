@@ -1,0 +1,75 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #82d1fb;
+    color: #212529;
+}
+
+/* Center align the table */
+.table-container {
+    display: flex;
+    justify-content: center;
+}
+
+/* Style for the container */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the input area */
+.input-area {
+    margin-bottom: 20px;
+}
+
+.input-area input[type="text"] {
+    width: calc(100% - 110px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+}
+
+.input-area button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.input-area button:hover {
+    background-color: #0056b3;
+}
+
+/* Style for the table */
+.table {
+    width: 100%;
+}
+
+.table thead th {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.table tbody tr {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.table tbody tr:last-child {
+    border-bottom: none;
+}
+
+/* Style for action buttons */
+.action .btn {
+    margin-right: 5px;
+}
+
+.action .btn:last-child {
+    margin-right: 0;
+}
