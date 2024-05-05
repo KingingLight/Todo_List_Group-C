@@ -1,13 +1,10 @@
-# Todo_List_Group-C
-Group C
-KALULU   CHRISTIAN     
-VU-BIT-2109-1359
+
+<!-- KALULU   CHRISTIAN                                                    VU-BIT-2109-1359
 
 NANSUBUGA VICTORIA  
   VU-BIT-2109-0351
 
-BWARARE RODNEY  
-VU-BIT-2109-0783
+BWARARE RODNEY                                                        VU-BIT-2109-0783
 
 MARGGARET NJOROGE                                         
  VU-BIT-2109-0920 -->
